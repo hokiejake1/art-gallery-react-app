@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/art-gallery-react-app/static/css/main.435d5fe5.chunk.css",
+    "main.js": "/art-gallery-react-app/static/js/main.a9c97f4d.chunk.js",
+    "main.js.map": "/art-gallery-react-app/static/js/main.a9c97f4d.chunk.js.map",
+    "runtime-main.js": "/art-gallery-react-app/static/js/runtime-main.10f481ea.js",
+    "runtime-main.js.map": "/art-gallery-react-app/static/js/runtime-main.10f481ea.js.map",
+    "static/js/2.e89fdc35.chunk.js": "/art-gallery-react-app/static/js/2.e89fdc35.chunk.js",
+    "static/js/2.e89fdc35.chunk.js.map": "/art-gallery-react-app/static/js/2.e89fdc35.chunk.js.map",
+    "static/js/3.b2a674e1.chunk.js": "/art-gallery-react-app/static/js/3.b2a674e1.chunk.js",
+    "static/js/3.b2a674e1.chunk.js.map": "/art-gallery-react-app/static/js/3.b2a674e1.chunk.js.map",
+    "index.html": "/art-gallery-react-app/index.html",
+    "precache-manifest.43ac70662501cc8e47108e68ee541054.js": "/art-gallery-react-app/precache-manifest.43ac70662501cc8e47108e68ee541054.js",
+    "service-worker.js": "/art-gallery-react-app/service-worker.js",
+    "static/css/main.435d5fe5.chunk.css.map": "/art-gallery-react-app/static/css/main.435d5fe5.chunk.css.map",
+    "static/js/2.e89fdc35.chunk.js.LICENSE.txt": "/art-gallery-react-app/static/js/2.e89fdc35.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/art-gallery-react-app/static/media/logo.06e73328.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.10f481ea.js",
+    "static/js/2.e89fdc35.chunk.js",
+    "static/css/main.435d5fe5.chunk.css",
+    "static/js/main.a9c97f4d.chunk.js"
+  ]
+}
